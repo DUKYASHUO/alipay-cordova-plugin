@@ -1,9 +1,9 @@
 {
-  "name": "alipay-cordova-plugin",
+  "name": "cordova-plugin-alipay",
   "version": "1.0.0",
   "description": "alipay cordova plugin",
   "cordova": {
-    "id": "alipay",
+    "id": "cordova-plugin-alipay",
     "platforms": [
       "android",
       "ios"
